@@ -21,3 +21,5 @@ The sub-repositories are:
 - Standardization: contains the codes used for computing the standardization and normalization statistics of the variables used in the deep learning models
 
 - Training_data: contains the codes used for generating the data used for training the deep learning models, as well as for the validation and test periods
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11071206.svg)](https://doi.org/10.5281/zenodo.11071206)
